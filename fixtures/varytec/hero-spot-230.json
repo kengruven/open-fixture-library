@@ -37,7 +37,8 @@
         },
         {
           "type": "Color",
-          "name": "Red"
+          "name": "Red",
+          "colors": ["#ff0000"]
         },
         {
           "type": "Color",
@@ -46,23 +47,28 @@
         },
         {
           "type": "Color",
-          "name": "Green"
+          "name": "Green",
+          "colors": ["#00ff00"]
         },
         {
           "type": "Color",
-          "name": "Dark Blue"
+          "name": "Dark Blue",
+          "colors": ["#0000aa"]
         },
         {
           "type": "Color",
-          "name": "Yellow"
+          "name": "Yellow",
+          "colors": ["#ffff00"]
         },
         {
           "type": "Color",
-          "name": "Light Blue"
+          "name": "Light Blue",
+          "colors": ["#00aaff"]
         },
         {
           "type": "Color",
-          "name": "Magenta"
+          "name": "Magenta",
+          "colors": ["#ff00ff"]
         }
       ]
     },
